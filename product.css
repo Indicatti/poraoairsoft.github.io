@@ -85,3 +85,14 @@ background-size: auto;
 }
 
 .overflow-hidden { overflow: hidden; }
+
+
+
+
+
+
+
+.responsive {
+       width: 100%;
+       height: auto;
+    }
